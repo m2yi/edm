@@ -1,4 +1,8 @@
 ## Things that I watch and read 
+### 22.08.2018
+* https://dzone.com/articles/functional-programming-a-paradigm Functional Programming: A Paradigm
+* https://dzone.com/articles/sqoop-import-data-from-mysql-tohive Sqoop: Import Data From MySQL to Hive
+
 ### 21.08.2018
 * https://habr.com/post/419945/ Как подготовиться к собеседованию в Google и не пройти его. Дважды
 * https://dzone.com/articles/talend-and-apache-spark-a-technical-primer-and-ove Talend and Apache Spark: A Technical Primer and Overview
