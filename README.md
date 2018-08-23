@@ -3,6 +3,9 @@
 * https://blog.matthewrathbone.com/2015/12/08/hive-vs-mysql.html Apache Hive vs MySQL - What are the key differences?
 * https://www.marklogic.com/blog/schema-on-read-vs-schema-on-write/ Schema-on-Read vs Schema-on-Write
 * https://read.acloud.guru/event-driven-architecture-with-sqs-and-aws-lambda-cf2ebd529ae3 Amazon SQS and AWS Lambda
+* https://habr.com/company/yamoney/blog/419041/ Девять граблей Elasticsearch, на которые я наступил
+* https://dzone.com/articles/how-to-improve-hive-query-performance-with-hadoop How to Improve Hive Query Performance With Hadoop
+* https://www.youtube.com/watch?v=GSuLt5PT_Dc Spark SQL
 
 ### 22.08.2018
 * https://dzone.com/articles/functional-programming-a-paradigm Functional Programming: A Paradigm
