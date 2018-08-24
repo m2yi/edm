@@ -1,4 +1,8 @@
-## Things that I watch and read 
+## Things that I watch and read
+
+### 24.08.2018
+* https://databricks.com/blog/2015/06/22/understanding-your-spark-application-through-visualization.html Understanding your Apache Spark Application Through Visualization
+
 ### 23.08.2018
 * https://blog.matthewrathbone.com/2015/12/08/hive-vs-mysql.html Apache Hive vs MySQL - What are the key differences?
 * https://www.marklogic.com/blog/schema-on-read-vs-schema-on-write/ Schema-on-Read vs Schema-on-Write
