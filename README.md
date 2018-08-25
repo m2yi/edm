@@ -1,4 +1,8 @@
 ## Things that I watch and read
+### 25.08.2018
+* https://dzone.com/articles/programming-to-an-interface-a-simple-explanation Programming to an Interface: A Simple Explanation
+* https://stackify.com/solid-design-principles/ SOLID Design Principles Explained – The Single Responsibility Principle
+* https://stackify.com/solid-design-open-closed-principle/ SOLID Design Principles Explained – The Open/Closed Principle with Code Examples
 
 ### 24.08.2018
 * https://databricks.com/blog/2015/06/22/understanding-your-spark-application-through-visualization.html Understanding your Apache Spark Application Through Visualization
