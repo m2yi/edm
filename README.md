@@ -1,4 +1,9 @@
 ## Things that I watch and read
+### 27.08.2018
+* https://habr.com/post/354028/ Понимаем implicit'ы в Scala
+* https://habr.com/post/212121/ Классические паттерны проектирования на Scala
+* https://medium.com/@itseranga/scala-cake-pattern-e0cd894dae4e Scala cake pattern
+
 ### 25.08.2018
 * https://dzone.com/articles/programming-to-an-interface-a-simple-explanation Programming to an Interface: A Simple Explanation
 * https://stackify.com/solid-design-principles/ SOLID Design Principles Explained – The Single Responsibility Principle
