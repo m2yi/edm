@@ -1,4 +1,12 @@
 ## Things that I watch and read
+### 11.03.2019
+* https://aws.amazon.com/blogs/machine-learning/anomaly-detection-on-amazon-dynamodb-streams-using-the-amazon-sagemaker-random-cut-forest-algorithm/ Anomaly detection on Amazon DynamoDB Streams using the Amazon SageMaker Random Cut Forest algorithm
+* https://aws.amazon.com/blogs/big-data/real-time-clickstream-anomaly-detection-with-amazon-kinesis-analytics/ Real-time Clickstream Anomaly Detection with Amazon Kinesis Analytics
+* https://www.slideshare.net/natalinobusa/realtime-anomaly-detection-with-spark-mllib-akka-and-cassandra Real-Time Anomaly Detection with Spark MLlib, Akka and Cassandra
+* https://medium.com/@dassum/apache-livy-a-rest-interface-for-apache-spark-f435540e26a9 Apache Livy: A REST Interface for Apache Spark
+
+#### After long term pause I keep working on this project. 
+
 ### 27.08.2018
 * https://habr.com/post/354028/ Понимаем implicit'ы в Scala
 * https://habr.com/post/212121/ Классические паттерны проектирования на Scala
