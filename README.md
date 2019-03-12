@@ -1,4 +1,9 @@
 ## Things that I watch and read
+### 12.03.2019
+* https://www.linkedin.com/pulse/robust-random-cut-forest-rrcf-math-explanation-logan-wilt Robust Random Cut Forest (RRCF): A No Math Explanation
+* https://www.streamanalytix.com/blogs/new-approaches-to-real-time-anomaly-detection-for-streaming-data/ New Approaches to Real-time Anomaly Detection for Streaming Data
+* https://www.streamanalytix.com/product/streamanalytix/ The Visual Big Data Analytics Platform for Your Real-time Enterprise
+
 ### 11.03.2019
 * https://aws.amazon.com/blogs/machine-learning/anomaly-detection-on-amazon-dynamodb-streams-using-the-amazon-sagemaker-random-cut-forest-algorithm/ Anomaly detection on Amazon DynamoDB Streams using the Amazon SageMaker Random Cut Forest algorithm
 * https://aws.amazon.com/blogs/big-data/real-time-clickstream-anomaly-detection-with-amazon-kinesis-analytics/ Real-time Clickstream Anomaly Detection with Amazon Kinesis Analytics
