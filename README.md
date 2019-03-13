@@ -1,4 +1,9 @@
 ## Things that I watch and read
+### 13.03.2019
+* https://medium.com/value-stream-design/online-machine-learning-515556ff72c5 What is online machine learning?
+* https://www.youtube.com/watch?v=12Xq9OLdQwQ Anomaly Detection: Algorithms, Explanations, Applications
+* https://habr.com/ru/post/320710/ Разница между nginx и apache с примерами
+
 ### 12.03.2019
 * https://www.linkedin.com/pulse/robust-random-cut-forest-rrcf-math-explanation-logan-wilt Robust Random Cut Forest (RRCF): A No Math Explanation
 * https://www.streamanalytix.com/blogs/new-approaches-to-real-time-anomaly-detection-for-streaming-data/ New Approaches to Real-time Anomaly Detection for Streaming Data
