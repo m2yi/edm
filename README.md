@@ -1,4 +1,8 @@
 ## Things that I watch and read
+### 14.03.2019
+* https://medium.com/@pjbrn26/async-vs-sync-d369a4ef95e5 Async vs Sync
+* https://medium.com/rate-engineering/using-docker-containers-to-run-a-distributed-application-locally-eeabd360bca3 Using Docker Compose to Run Your Applications
+
 ### 13.03.2019
 * https://medium.com/value-stream-design/online-machine-learning-515556ff72c5 What is online machine learning?
 * https://www.youtube.com/watch?v=12Xq9OLdQwQ Anomaly Detection: Algorithms, Explanations, Applications
