@@ -1,4 +1,8 @@
 ## Things that I watch and read
+
+### 15.03.2019
+https://medium.com/@ino.liao/pythonvirtualenv-be2f122cebc3 Tutorial — Python Virtual Environment
+
 ### 14.03.2019
 * https://medium.com/@pjbrn26/async-vs-sync-d369a4ef95e5 Async vs Sync
 * https://medium.com/rate-engineering/using-docker-containers-to-run-a-distributed-application-locally-eeabd360bca3 Using Docker Compose to Run Your Applications
