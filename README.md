@@ -1,5 +1,9 @@
 ## Things that I watch and read
 
+### 11.04.2019
+https://dou.ua/lenta/articles/must-have-artifacts/ Must have артефакты для разработки ПО
+https://medium.com/@talentorigin/reading-compressed-files-with-spark-2-0-part-1-c25c5ea7ad93 Reading Compressed Files With Spark 2.0 -Part -1
+
 ### 15.03.2019
 https://medium.com/@ino.liao/pythonvirtualenv-be2f122cebc3 Tutorial — Python Virtual Environment
 
