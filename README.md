@@ -1,5 +1,8 @@
 ## Things that I watch and read
 
+### 18.10.2019
+https://www.youtube.com/watch?v=fNpQrYwxsvo How I Got Into Google As Software Engineer | My "Google Interview Experience"
+
 ### 11.04.2019
 https://dou.ua/lenta/articles/must-have-artifacts/ Must have артефакты для разработки ПО
 https://medium.com/@talentorigin/reading-compressed-files-with-spark-2-0-part-1-c25c5ea7ad93 Reading Compressed Files With Spark 2.0 -Part -1
