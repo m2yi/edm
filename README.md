@@ -1,11 +1,20 @@
 ## Things that I watch and read
 
+### 12.01.2020
+* https://stackoverflow.com/questions/32777014/spark-code-organization-and-best-practices Spark code organization and best practices
+* https://0x0fff.com/apache-spark-future/ Apache Spark Future
+* https://medium.com/cloudzone/apache-spark-3-0-review-what-the-spark-is-all-about-998844e12b3c Apache Spark 3.0 Review — What the Spark is all about
+* https://www.youtube.com/watch?time_continue=459&v=ME1KCAYO44o&feature=emb_logo Dynamic Partition Pruning in Apache Spark
+* http://www.scalatest.org/getting_started_with_fun_spec Getting started with FunSpec
+* https://jaceklaskowski.gitbooks.io/mastering-spark-sql/spark-sql-Optimizer-PushDownPredicate.html PushDownPredicate — Predicate Pushdown / Filter Pushdown Logical Optimization
+* https://docs.datastax.com/en/dse/6.0/dse-dev/datastax_enterprise/spark/sparkPredicatePushdown.html Using Spark predicate push down in Spark SQL queries
+
 ### 18.10.2019
-https://www.youtube.com/watch?v=fNpQrYwxsvo How I Got Into Google As Software Engineer | My "Google Interview Experience"
+* https://www.youtube.com/watch?v=fNpQrYwxsvo How I Got Into Google As Software Engineer | My "Google Interview Experience"
 
 ### 11.04.2019
-https://dou.ua/lenta/articles/must-have-artifacts/ Must have артефакты для разработки ПО
-https://medium.com/@talentorigin/reading-compressed-files-with-spark-2-0-part-1-c25c5ea7ad93 Reading Compressed Files With Spark 2.0 -Part -1
+* https://dou.ua/lenta/articles/must-have-artifacts/ Must have артефакты для разработки ПО
+* https://medium.com/@talentorigin/reading-compressed-files-with-spark-2-0-part-1-c25c5ea7ad93 Reading Compressed Files With Spark 2.0 -Part -1
 
 ### 15.03.2019
 https://medium.com/@ino.liao/pythonvirtualenv-be2f122cebc3 Tutorial — Python Virtual Environment
