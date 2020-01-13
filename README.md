@@ -1,5 +1,11 @@
 ## Things that I watch and read
 
+### 13.01.2020
+* https://www.youtube.com/watch?v=HbgzrKJvDRw Linux File System/Structure Explained!
+* https://dzone.com/articles/custom-hashmap-implementation-in-java Java HashMap Implementation in a Nutshell
+* https://examples.javacodegeeks.com/core-java/maphashmap-works-internally-java/ How Map/HashMap Works Internally in Java
+* https://www.tutorialspoint.com/teradata/index.htm Teradata tutorial
+
 ### 12.01.2020
 * https://stackoverflow.com/questions/32777014/spark-code-organization-and-best-practices Spark code organization and best practices
 * https://0x0fff.com/apache-spark-future/ Apache Spark Future
