@@ -1,5 +1,11 @@
 ## Things that I watch and read
 
+### 14.01.2020
+* https://dzone.com/articles/peer-reviews-lessons-learned-from-the-experience Software Development Peer Reviews: Five Lessons Learned From the Experience
+* https://data-flair.training/blogs/what-is-new-in-hadoop-3/ What is New in Hadoop 3? Explore the Unique Hadoop 3 Features
+* https://www.rubrik.com/blog/erasure-coding-rubrik-doubled-capacity-cluster/ Erasure Coding or: How Rubrik Doubled the Capacity of Your Cluster
+* https://www.youtube.com/watch?v=hC4gGCD3vlY Advanced Scala - Oleg Mürk
+
 ### 13.01.2020
 * https://www.youtube.com/watch?v=HbgzrKJvDRw Linux File System/Structure Explained!
 * https://dzone.com/articles/custom-hashmap-implementation-in-java Java HashMap Implementation in a Nutshell
