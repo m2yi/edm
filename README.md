@@ -1,5 +1,11 @@
 ## Things that I watch and read
 
+### 15.01.2020
+* https://www.forbes.com/sites/christinapark/2015/03/30/an-introverts-guide-to-small-talk-eight-painless-tips/#73fb23cc574a An Introvert's Guide To Small Talk: Eight Painless Tips
+* https://www.slideshare.net/CloudxLab/advanced-spark-programming-part-2-98666859 Advanced Spark Programming - Part 2 | Big Data Hadoop Spark Tutorial | CloudxLab
+* https://alvinalexander.com/scala/concurrency-with-scala-futures-tutorials-examples Simple concurrency with Scala Futures (Futures tutorial)
+* https://medium.com/nothing-but-the-objectivetruth/promises-and-futures-explained-in-scala-623e16412745 Promises and Futures Explained in Scala
+
 ### 14.01.2020
 * https://dzone.com/articles/peer-reviews-lessons-learned-from-the-experience Software Development Peer Reviews: Five Lessons Learned From the Experience
 * https://data-flair.training/blogs/what-is-new-in-hadoop-3/ What is New in Hadoop 3? Explore the Unique Hadoop 3 Features
