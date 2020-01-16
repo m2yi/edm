@@ -1,5 +1,11 @@
 ## Things that I watch and read
 
+### 16.01.2020
+* https://www.boost.co.nz/blog/2012/01/use-cases-or-user-stories Use cases vs user stories in Agile development
+* http://www.informit.com/articles/article.aspx?p=2755708&seqNum=5 Rebalancing HDFS Data
+* http://site.clairvoyantsoft.com/understanding-resource-allocation-configurations-spark-application/ Understanding Resource Allocation configurations for a Spark application
+* https://medium.com/@dmytrosemenov/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%B2%D0%B8%D1%89%D0%B0-%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%B0-%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B0-%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D0%B9%D1%82%D0%B5%D1%81%D1%8C-%D0%B2%D1%96%D0%B4-%D0%BD%D0%B5%D1%97-%D0%BF%D0%BE%D0%B4%D0%B0%D0%BB%D1%96-c57fd46d4842#.15gmxiywb Українська вища освіта — мертва. Тримайтесь від неї подалі.
+
 ### 15.01.2020
 * https://www.forbes.com/sites/christinapark/2015/03/30/an-introverts-guide-to-small-talk-eight-painless-tips/#73fb23cc574a An Introvert's Guide To Small Talk: Eight Painless Tips
 * https://www.slideshare.net/CloudxLab/advanced-spark-programming-part-2-98666859 Advanced Spark Programming - Part 2 | Big Data Hadoop Spark Tutorial | CloudxLab
