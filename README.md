@@ -1,5 +1,11 @@
 ## Things that I watch and read
 
+### 17.01.2020
+* https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-1/ How-to: Tune Your Apache Spark Jobs (Part 1)
+* https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-2/ How-to: Tune Your Apache Spark Jobs (Part 2)
+* https://medium.com/@sudarshan_sreenivasan/what-is-secondary-sort-in-hadoop-and-how-does-it-work-fe35609b5319 Secondary sort in Hadoop and how it works
+* https://medium.com/@treycoopermusic/how-shazam-works-d97135fb4582 How Shazam Works
+
 ### 16.01.2020
 * https://www.boost.co.nz/blog/2012/01/use-cases-or-user-stories Use cases vs user stories in Agile development
 * http://www.informit.com/articles/article.aspx?p=2755708&seqNum=5 Rebalancing HDFS Data
