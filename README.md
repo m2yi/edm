@@ -1,5 +1,8 @@
 ## Things that I watch and read
 
+### 31.01.2020
+* https://medium.com/@radek.strnad/tips-for-using-jdbc-in-apache-spark-sql-396ea7b2e3d3 Tips for using JDBC in Apache Spark SQL
+
 ### 17.01.2020
 * https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-1/ How-to: Tune Your Apache Spark Jobs (Part 1)
 * https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-2/ How-to: Tune Your Apache Spark Jobs (Part 2)
